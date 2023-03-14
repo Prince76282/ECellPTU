@@ -1537,8 +1537,8 @@ header .header-logo a
  * ------------------------------------------------------------------- */
 @media only screen and (max-width: 768px) {
   header .header-logo a {
-    width: 70px;
-    height: 60px;
+    width: 50px;
+    height: 40px;
     background-size: 100px 90px;
   }
 }
